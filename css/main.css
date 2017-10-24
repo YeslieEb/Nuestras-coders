@@ -1,0 +1,52 @@
+hr {
+    border:2px solid black;
+    width: 6%;
+    margin-left: 0%;
+    margin-top: 0%;
+  }
+
+img {
+    display: inline-block;
+    margin: 5%;
+    margin-top: 20px;
+}
+
+* div {
+    font-family: 'Merriweather', serif;
+    position: relative;
+    color: white;
+}
+
+.img1 {
+    bottom: 430px;
+    left: 140px;
+}
+
+.img2 {
+    bottom: 450px;
+    left: 490px;
+}
+
+.img3 {
+    bottom: 470px;
+    left: 850px;
+}
+
+.img4 {
+    bottom: 170px;
+    left: 160px;
+}
+
+.img5 {
+    bottom: 190px;
+    left: 530px;
+}
+
+.img6 {
+    bottom: 210px;
+    left: 850px;
+}
+    
+
+
+
